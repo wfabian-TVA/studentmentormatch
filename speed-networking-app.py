@@ -6,7 +6,7 @@ import base64
 import random
 from io import BytesIO
 
-st.set_page_config(page_title="Speed Networking Matcher", layout="wide")
+st.set_page_config(page_title="Speed Networking Matchmaker", layout="wide")
 
 st.title("Speed Networking Matcher")
 st.write("""
