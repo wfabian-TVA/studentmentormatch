@@ -11,8 +11,7 @@ st.set_page_config(page_title="Speed Networking Matcher", layout="wide")
 st.title("Speed Networking Matcher")
 st.write("""
 This app helps you match students with mentors for speed networking sessions.
-Each student will have 3 conversations with different mentors, and each mentor
-will have no more than 5 conversations per day.
+On the righthand side, please choose the number of conversations you would like each student and mentor to have and the timing of the session.
 """)
 
 # Session state initialization
